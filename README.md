@@ -69,8 +69,9 @@ block.
 
 | Header | Header | Right  |
 | ------ | ------ | -----: |
-|  Cell  |  Cell  |   $10  |
+|  Cell ta ta |  Cell  |   $10  |
 |  Cell  |  Cell  |   $20  |
+|x|y|z|
 
 * Outer pipes on tables are optional
 * Colon used for alignment (right versus left)
