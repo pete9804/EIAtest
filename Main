@@ -83,3 +83,48 @@ That's a great list an' all we got up there, but really we're just glossing over
 I've often wondered! I think that the common factor of low-value tasks is that they are not related directly to what you are trying to achieve, instead _they are related to the **processes** you use to achieve your goal_.
 
 And compiling a multi-author multi-review document **is** a process, often quite a convoluted one, and one that it is critical to get right so that you can have faith in the report that goes to the client. It can feel like we have vey little control over this process, after all our work computers provide us with Word, email, and network drives - these are the tools, how else are we supposed to use them? And _are_ there even other tools available?
+
+# Chapter 3 - Low Value Task Processes
+[_This is the second in a short series of posts trying to get my thoughts together for a talk. Talk is closer than I would like!!_]
+
+So in my last post I discussed how the process of creating a report can be divided into high-value tasks and low-value tasks.
+
+My conclusion was that the high-value tasks were the things your client was actually paying you for; whereas the low-value tasks were the result of the processes you used to actually get it done and out of the door - things like formatting, keeping track of versions, getting comments to and amendments from various specialists. These low-value tasks are necessary - you need to get your report to capture all the relevant information and interpretation and this required some hum-drum work; we can't yet commune telepathically with our colleagues and the client to just transfer the knowledge brain to brain (Google working on this perhaps?).
+
+Something I don't think I covered last time was that low-value tasks are also frequently **bottlenecks**. If you are coordinating a report, you want to avoid causing bottlenecks wherever possible. A bottleneck is where you need to do something to then pass a task on to someone else; for example if you need to review comments from the client on a draft report in order to determine which comments you can't address yourself and need to refer back to the specialists. If you don't get on and do it you're causing a bottleneck because your specialists can't help you until you've done your bit. Theoretically this might not be much of a problem, but when people are on leave or suddenly get pulled onto another project your delay might mean you miss the one window they had that week to help you out. If you need someone to complete what is for them a five-minute task, but which they can't address for a week because they are working out of a client office on another project suddenly, as far as you and your programme are concerned, it's not a five-minute task it's a week-long task! As such the more you can do to reduce your bottlenecks the more likely you are to avoid these situations.
+
+So the aim is to maximise the time you can spend on high-value tasks.
+
+>Assuming a constant budget, _the only way to do this is to minimise the amount of time you need to spend on low-value tasks_.
+
+In this post I'll be looking at how the typical processes used in a standard office contribute to the amount of low-value tasks you need to accomplish.
+
+I reckon the typical IT setup you have in your office is as follows:
+
+* "Productivity suite" is Office Something, so basically Word, Excel and Outlook
+* Shared network drives that allow multiple users across different sites to access the same files, except with patchy access privileges that require a ticket to be raised with your IT department to resolve
+
+Assuming this, I'd predict that:
+
+* Teams in different locations or departments don't share a common project folder but instead keep their work in their own separate folders somewhere on the network
+* Files are shared or submitted for review via email
+* you try your best to educate people to **track their damn changes** when submitting revisions, but even if they do eventually you need to save a new version and accept all changes because it's just getting too messy. [Still, it's better than the people who highlight their changes in yellow - **damn you all!!**]
+* Everyone uses their own version numbering - "A", "1", "0.1", "A + changes", "B + changes + [reviewer initials]" which are impossible to follow in your own master document versioning
+
+Still, through bitter experience you generally have people sufficiently trained to track their changes and use comment bubbles not in-line comments with yellow highlighting.
+
+The thing is, this arrangement works. Eventually. You are conscientious, and the report ends up done, dusted, and more or less on time to a standard you can be pleased with. But you have busted yo' ass churning through a bunch of low-value tasks to get there, and that means there is less time for the high-value tasks that really add, well, _value_ to the report!
+
+**So looking at the list above, how does this approach generate so many low-value tasks?**
+
+It is so much harder to keep track of versions. For a recent report I did a quick count and I identified about 50 Word documents that were some version or other of the same report. Sure, that includes contributions from nearly 10 teams but still. It double-counts to some degree because I included those I had been emailed plus the same version I then saved to the network drive. Yeah they are the same, but then I have now created an extra version of it which is even worse.
+
+Also, if teams are working largely independently then having each team's work in their own local drive adds an extra layer of difficulty to collaboration. If teams can see each other's work then they are more likely to review it and start to collaborate. If not, then your low-value task kicks in of reviewing each submission as it comes in and cross checking each one to see if they are consistent.
+
+Word is rubbish for comments and changes. To clarify, it is much better to use comments and track your changes than to not do so. But the way it works means that if you keep all your changes tracked the document gradually becomes unreadable. This means that at various points you have to just save as a new version and accept all changes, which means that you have to look back at multiple older versions if you are trying to track down a rogue change or confirm something.
+
+And comments. Great for notes to yourself, but as with tracked changes comments multiply aggressively as versions get passed back and forth, again eventually necessitating a clean new version with comments removed. Comments are also bottlenecks, because you have to review all the comments and notify the relevant team or person who needs to address it (because everyone is working off different drives with different versions remember?).
+
+All of this faff means that you spend far too much time cross-checking versions, making sure everyone is aware of the latest one when you ask for more changes, you create bottlenecks, and teams don't see each other's work, reducing the scope for collaboration.
+
+**It gets done, but isn't there a better way?**
