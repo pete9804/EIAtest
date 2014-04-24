@@ -1,3 +1,5 @@
+# Chapter 1 - EIA Process
+
 If you want to build something you need to take into account the probable environmental impact of your scheme. There is all sorts of legislation and regulation governing what you can and cannot do, covering diverse topics like ecology, heritage, noise, air quality and so on. Bur binding all this together is the process of Environmental Impact Assessment (EIA), which itself is governed by legislation, regulation, and guidance. 
 
 EIA is a staged process:
@@ -46,4 +48,38 @@ To me, _main_ and _significant_ are very different things; an effect could be co
 As we thought more about the construction of the scheme it became clear that actually there wasn't a whole lot we could scope out. However as it was an underground pipeline we managed to scope out more topics for the operational phase. We were slightly hampered by not having access to the background information, all we had was the proposed development, but that was enough to make some reasonable conclusions. Broadly, all the teams had similar opinions on this, althoug again I think our team was a bit more gung ho in scoping stuff out.
 
 ###Environmental Statement
-I've decided to break this post up, so the final day's activities - reviewing an Environmental Statement, will be coming soon!d
+I've decided to break this post up, so the final day's activities - reviewing an Environmental Statement, will be coming soon!
+
+# Chapter 2 - High Value Tasks and Low Value Tasks
+
+[_This is the first of a couple of posts I'm writing in order to get my head around a topic I rashly said I'd do a presentation on, so apologies for any incoherence that may result_]
+
+I'm trying to think about work in terms of the different tasks that contribute to the final product, whatever that may be. In my case, as a consultant, that final product is a clear, focussed report that solves a client's problem (preferably the problem he's paying you to solve). But not all tasks are created equal - some really add value to your final product, and some just get in the way and are a distraction (even if you still need to do them). So we can think about work in terms of **high-value tasks** and **low-value tasks**.
+
+###High-value tasks
+These include all the things that the client or customer is paying you for - essentially the application of your knowledge and experience to address the problem at hand. In the context of environmental consultancy this might include:
+
+* Studying the baseline conditions at the site
+* Reviewing the design of the scheme the client wants to build
+* Consulting with the planning authority and other statutory agencies who will have a say on the scheme
+* Sitting down with your specialists to ensure that their inputs are consistent, don't overlap, and don't let anything fall between the gaps
+* Liaising with the client so closely that as soon as they change the design you have found out and can respond accordingly
+* Liaising with the client so closely that as soon as you identify a key risk you can work together to solve it
+* Producing a shit-hot report that is clear to the client, clear to the client's client, clear to the client's regulators, and clear to the client's director who signs off the big cheques so you get paid and decides to come to you again
+
+Those are the things that the client is paying you for - the high-value tasks - so why would you do anything else? Oh wait...
+
+###Low-value tasks
+That's a great list an' all we got up there, but really we're just glossing over a whole bunch of crap that we just need to get done dammit!
+
+* Checking that everyone is using the correct site boundary because it changed after we started the scheme and one guy was off on holiday and he might have missed the update email so we need to chase
+* Fixing a load of poor formatting in the report document
+* Making sure you have incorporated the latest changes from the specialists, especially if you had to go back to them with comments
+* Keeping track of tracked changes, because after several drafts and reviews it just becomes a mess
+* Emailing review comments for specialists to address because not everyone has access to the master document
+* ...and so on
+
+####So, erm, why do we do low-value tasks?
+I've often wondered! I think that the common factor of low-value tasks is that they are not related directly to what you are trying to achieve, instead _they are related to the **processes** you use to achieve your goal_.
+
+And compiling a multi-author multi-review document **is** a process, often quite a convoluted one, and one that it is critical to get right so that you can have faith in the report that goes to the client. It can feel like we have vey little control over this process, after all our work computers provide us with Word, email, and network drives - these are the tools, how else are we supposed to use them? And _are_ there even other tools available?
