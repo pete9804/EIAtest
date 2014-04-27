@@ -128,3 +128,5 @@ And comments. Great for notes to yourself, but as with tracked changes comments 
 All of this faff means that you spend far too much time cross-checking versions, making sure everyone is aware of the latest one when you ask for more changes, you create bottlenecks, and teams don't see each other's work, reducing the scope for collaboration.
 
 **It gets done, but isn't there a better way?**
+
+Edit
